@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+        name="portal_actions"
+>
+  <object meta_type="CMF Action Category"
+          name="object_accessibility_checker"
+  >
+    <object meta_type="CMF Action"
+            name="ai_check"
+            i18n:domain="interaktiv.accessibilitychecker"
+    >
+      <property name="title"
+                i18n:translate=""
+      >AI check</property>
+      <property name="url_expr">string:${object_url}/@accessibility-check</property>
+      <property name="permissions">
+        <element value="interaktiv.accessibilitychecker: Run AI check" />
+      </property>
+      <property name="visible">True</property>
+    </object>
+  </object>
+</object>

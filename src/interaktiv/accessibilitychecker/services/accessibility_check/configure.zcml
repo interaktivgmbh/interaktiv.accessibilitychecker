@@ -1,0 +1,15 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:plone="http://namespaces.plone.org/plone"
+    >
+
+  <plone:service
+      method="POST"
+      factory=".post.PostAccessibilityCheck"
+      for="plone.restapi.behaviors.IBlocks"
+      permission="interaktiv.accessibilitychecker.RunAICheck"
+      layer="interaktiv.accessibilitychecker.interfaces.IBrowserLayer"
+      name="@accessibility-check"
+      />
+
+</configure>

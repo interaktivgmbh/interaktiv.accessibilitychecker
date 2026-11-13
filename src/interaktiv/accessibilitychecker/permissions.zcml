@@ -1,0 +1,8 @@
+<configure xmlns="http://namespaces.zope.org/zope">
+
+  <permission
+      id="interaktiv.accessibilitychecker.RunAICheck"
+      title="interaktiv.accessibilitychecker: Run AI check"
+      />
+
+</configure>

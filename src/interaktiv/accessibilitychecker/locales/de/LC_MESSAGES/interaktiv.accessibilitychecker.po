@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-30 13:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: de\n"
+"Language-Name: German\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: interaktiv.accessibilitychecker\n"
+
+#: interaktiv/accessibilitychecker/profiles/default/actions.xml
+msgid "AI check"
+msgstr "KI-Prüfung"
+
+#: interaktiv/accessibilitychecker/criteria.py:33
+msgid "Alt text fits the context"
+msgstr "Alternativtext passt zum Kontext"
+
+#: interaktiv/accessibilitychecker/criteria.py:18
+msgid "Alt text matches the image"
+msgstr "Alternativtext passt zum Bild"
+
+#: interaktiv/accessibilitychecker/criteria.py:67
+msgid "Content is logically structured"
+msgstr "Inhalte sind logisch gegliedert"
+
+#: interaktiv/accessibilitychecker/criteria.py:62
+msgid "Headings accurately describe the content of their section."
+msgstr "Überschriften beschreiben den Inhalt ihres Abschnitts zutreffend."
+
+#: interaktiv/accessibilitychecker/criteria.py:61
+msgid "Headings are meaningful"
+msgstr "Überschriften sind aussagekräftig"
+
+#: interaktiv/accessibilitychecker/criteria.py:79
+msgid "Instructions don't refer only to colour, shape or position."
+msgstr "Anweisungen verweisen nicht ausschließlich auf Farbe, Form oder Position."
+
+#: interaktiv/accessibilitychecker/criteria.py:78
+msgid "Instructions don't rely on visual cues"
+msgstr "Anweisungen sind nicht nur visuell verständlich"
+
+#: interaktiv/accessibilitychecker/profiles.zcml:13
+msgid "Interaktiv Accessibility Checker: Install"
+msgstr "Interaktiv Barrierefreiheits-Checker: Installieren"
+
+#: interaktiv/accessibilitychecker/profiles.zcml:21
+msgid "Interaktiv Accessibility Checker: Uninstall"
+msgstr "Interaktiv Barrierefreiheits-Checker: Deinstallieren"
+
+#: interaktiv/accessibilitychecker/criteria.py:49
+msgid "Link texts are meaningful"
+msgstr "Linktexte sind aussagekräftig"
+
+#: interaktiv/accessibilitychecker/criteria.py:50
+msgid "Link texts make the purpose of the link clear, at least in their context."
+msgstr "Linktexte machen den Zweck des Links verständlich, zumindest im Kontext."
+
+#: interaktiv/accessibilitychecker/criteria.py:19
+msgid "The alternative text accurately describes the essential content of the image."
+msgstr "Der Alternativtext beschreibt die wesentlichen Bildinhalte zutreffend."
+
+#: interaktiv/accessibilitychecker/criteria.py:34
+msgid "The alternative text conveys the purpose of the image in the context of the page."
+msgstr "Der Alternativtext vermittelt den Zweck des Bildes im Zusammenhang der Seite."
+
+#: interaktiv/accessibilitychecker/criteria.py:68
+msgid "The order and structure of the content are easy to follow."
+msgstr "Reihenfolge und Gliederung der Inhalte sind nachvollziehbar."

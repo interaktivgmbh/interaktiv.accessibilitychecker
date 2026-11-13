@@ -1,0 +1,78 @@
+#--- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+#SOME DESCRIPTIVE TITLE.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-30 13:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: interaktiv.accessibilitychecker\n"
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/profiles/default/actions.xml
+msgid "AI check"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:33
+msgid "Alt text fits the context"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:18
+msgid "Alt text matches the image"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:67
+msgid "Content is logically structured"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:62
+msgid "Headings accurately describe the content of their section."
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:61
+msgid "Headings are meaningful"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:79
+msgid "Instructions don't refer only to colour, shape or position."
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:78
+msgid "Instructions don't rely on visual cues"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/profiles.zcml:13
+msgid "Interaktiv Accessibility Checker: Install"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/profiles.zcml:21
+msgid "Interaktiv Accessibility Checker: Uninstall"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:49
+msgid "Link texts are meaningful"
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:50
+msgid "Link texts make the purpose of the link clear, at least in their context."
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:19
+msgid "The alternative text accurately describes the essential content of the image."
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:34
+msgid "The alternative text conveys the purpose of the image in the context of the page."
+msgstr ""
+
+#: interaktiv.accessibilitychecker/src/interaktiv/accessibilitychecker/criteria.py:68
+msgid "The order and structure of the content are easy to follow."
+msgstr ""
